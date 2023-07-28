@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PaAc/static/css/main.25d06a5c.css",
+    "main.js": "/PaAc/static/js/main.ea379f7c.js",
+    "static/js/787.f7402911.chunk.js": "/PaAc/static/js/787.f7402911.chunk.js",
+    "static/media/instagram.webp": "/PaAc/static/media/instagram.eee5ef3f2824e5990fc3.webp",
+    "static/media/iitr.jpeg": "/PaAc/static/media/iitr.c300fdc54dee3f44c196.jpeg",
+    "static/media/physics.jpg": "/PaAc/static/media/physics.196e793722f672ffe6a1.jpg",
+    "static/media/facebook.webp": "/PaAc/static/media/facebook.6327c4437b545ad6980e.webp",
+    "static/media/logo.svg": "/PaAc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PaAc/index.html",
+    "main.25d06a5c.css.map": "/PaAc/static/css/main.25d06a5c.css.map",
+    "main.ea379f7c.js.map": "/PaAc/static/js/main.ea379f7c.js.map",
+    "787.f7402911.chunk.js.map": "/PaAc/static/js/787.f7402911.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25d06a5c.css",
+    "static/js/main.ea379f7c.js"
+  ]
+}
